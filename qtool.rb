@@ -6,7 +6,7 @@ class Qtool < Formula
   # revision 1  # 版本号不变，但 revision 递增，会触发升级
   url "https://github.com/dvlpCI/script-branch-json-file/archive/#{version}.tar.gz"
   # url "https://github.com/dvlpCI/script-branch-json-file/archive/0.9.13.tar.gz"
-  sha256 "06020d33411a47009ff8c179f4f664cbb66e1d72e0ba73cc801eb7fac797813e"
+  sha256 "4c76e749efebc869a824073b09b73b58910e7d56df0b5899a95958395ced5476"
   # shasum -a 256 xxxx.tar.gz
   # version /(\d+\.\d+\.\d+)/  # 从 URL 中提取版本号
 
